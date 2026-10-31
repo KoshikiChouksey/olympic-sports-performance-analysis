@@ -11,8 +11,6 @@
 - **GitHub Repository:** [https://github.com/KoshikiChouksey/olympic-sports-performance-analysis](https://github.com/KoshikiChouksey/olympic-sports-performance-analysis)
 - **Tableau Public Profile:** [https://public.tableau.com/app/profile/koshiki.chouksey/vizzes](https://public.tableau.com/app/profile/koshiki.chouksey/vizzes)
 
-> If you have a direct public URL for the specific Tableau dashboard or story, replace the profile link with that direct workbook link.
-
 ## Project Overview
 Olympic Sports Performance Analysis is a data-visualization project built with Tableau and a Flask web application. It explores sports-performance measures across countries, athletes, sports, regions, and years. The website provides access to the project's dashboard and story pages.
 
