@@ -1,11 +1,13 @@
 # Olympic Sports Performance Analysis
 
 ## Project Documentation
-- [Document 1 — Project Overview and Description](docs/01_PROJECT_OVERVIEW.pdf)
-- [Document 2 — Data Analysis and Methodology](docs/02_DATA_ANALYSIS.pdf)
-- [Document 3 — Visualization and Dashboard](docs/03_VISUALIZATION_AND_DASHBOARD.pdf)
-- [Document 4 — Results and Conclusion](docs/04_RESULTS_AND_CONCLUSION.pdf)
 
+Explore the detailed project documentation below:
+
+1. [Project Overview](docs/01_PROJECT_OVERVIEW.pdf)
+2. [Data Analysis](docs/02_DATA_ANALYSIS.pdf)
+3. [Visualization and Dashboard](docs/03_VISUALIZATION_AND_DASHBOARD.pdf)
+4. [Results and Conclusion](docs/04_RESULTS_AND_CONCLUSION.pdf)
 ## Project Links
 - **Live Website:** [https://olympic-sports-performance-analysis.onrender.com](https://olympic-sports-performance-analysis.onrender.com)
 - **GitHub Repository:** [https://github.com/KoshikiChouksey/olympic-sports-performance-analysis](https://github.com/KoshikiChouksey/olympic-sports-performance-analysis)
