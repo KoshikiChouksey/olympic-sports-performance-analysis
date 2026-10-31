@@ -13,7 +13,7 @@
    `python -m pip install -r requirements.txt`
 6. Start:
    `python app.py`
-7. Open http://127.0.0.1:5000/
+7. Open https://olympic-sports-performance-analysis.onrender.com
 
 ## What was fixed
 
